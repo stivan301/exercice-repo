@@ -8,5 +8,6 @@ Hello Again!!!!!!!!
 Making sam changes here!
 Razreshavame konflikta s nov tekst
 Likvidirane na Konflikta
+PARALELNO 19:09 NA SERVERA
 
 
